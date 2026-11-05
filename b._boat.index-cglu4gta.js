@@ -1,0 +1,1 @@
+import{t as e}from"./tour-app-roY1ImUX.js";var t=e;export{t as component};
