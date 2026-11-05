@@ -1,1 +1,0 @@
-import{t as e}from"./admin-panel-CQZoVYCT.js";import{C as t,G as n}from"./stops.functions-BrDYKK3G.js";import{t as r}from"./index-DmNuXr0c.js";var i=n();function a(){let{boat:n}=r.useParams(),{boat:a}=t();return(0,i.jsx)(e,{boat:a??{id:n,name:n}})}export{a as component};
