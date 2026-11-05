@@ -1,1 +1,0 @@
-import{n as e,s as t}from"./index-DmNuXr0c.js";import{G as n,b as r}from"./stops.functions-BrDYKK3G.js";var i=n();function a(){let n=e.useLoaderData(),{boat:a}=e.useParams();return(0,i.jsx)(r,{config:n??null,cacheKey:a,children:(0,i.jsx)(t,{})})}export{a as component};
