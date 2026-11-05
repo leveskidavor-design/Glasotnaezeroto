@@ -1,0 +1,1 @@
+import{t as e}from"./admin-panel-CQZoVYCT.js";import{G as t}from"./stops.functions-BrDYKK3G.js";var n=t(),r=()=>(0,n.jsx)(e,{});export{r as component};
